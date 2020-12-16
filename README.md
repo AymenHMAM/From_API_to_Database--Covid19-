@@ -35,9 +35,11 @@ Covid(#NoP,##Nom_Pays,Nb_population,Nb_cas_positive,Nb_cas_guéris,Nb_cas_morts,
 ![création Table Covid](https://user-images.githubusercontent.com/73019374/102407071-c894ee00-3feb-11eb-8ad1-365a260e3ab0.PNG)
 
 # Remplir la base de données Covid19 avec les données de l'API et les afficher:
+![1](https://user-images.githubusercontent.com/73019374/102407624-aa7bbd80-3fec-11eb-895a-c7cefccee07c.PNG)
+![11](https://user-images.githubusercontent.com/73019374/102407631-ad76ae00-3fec-11eb-8a2c-93e714f15d8c.PNG)
 ![affichage](https://user-images.githubusercontent.com/73019374/102407211-04c84e80-3fec-11eb-8d87-77022c74a9e1.PNG)
 
-# Exmemple d'une requete pour la calculer la sommes des guérisons en Europe:
+# Exemple d'une requete pour la calculer la somme des guérisons en Europe:
 ![requete](https://user-images.githubusercontent.com/73019374/102407318-3214fc80-3fec-11eb-972d-2b42c7817380.PNG)
 
 
