@@ -39,7 +39,7 @@ Covid(#NoP,##Nom_Pays,Nb_population,Nb_cas_positive,Nb_cas_guéris,Nb_cas_morts,
 ![11](https://user-images.githubusercontent.com/73019374/102407631-ad76ae00-3fec-11eb-8a2c-93e714f15d8c.PNG)
 ![affichage](https://user-images.githubusercontent.com/73019374/102407211-04c84e80-3fec-11eb-8d87-77022c74a9e1.PNG)
 
-# Exemple d'une requete pour la calculer la somme des guérisons en Europe:
+# Exemple d'une requete pour calculer la somme des guérisons en Europe:
 ![requete](https://user-images.githubusercontent.com/73019374/102407318-3214fc80-3fec-11eb-972d-2b42c7817380.PNG)
 
 
