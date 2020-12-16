@@ -8,7 +8,7 @@ URL API: 'https://covid-api.mmediagroup.fr/v1/cases'
 --------------------------------------------------
 les objectifs de ce Projet : Remplir une base de données à partir d'une API de la maladie Covid19
 
-les étapes sont:
+# les étapes sont:
 	1- Choix d'une API.
 	2- Faire le dictionnaire de données de cette API.
   	3- Construire un Schéma de donnée pouvant stocker de manière structuré les données de cette API.
