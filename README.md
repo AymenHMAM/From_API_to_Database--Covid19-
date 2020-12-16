@@ -24,3 +24,22 @@ Covid(#NoP,##Nom_Pays,Nb_population,Nb_cas_positive,Nb_cas_guéris,Nb_cas_morts,
 
 	#	PRIMARY KEY
 	##	FOREIGN KEY
+# la réponse de la requeste request de l'API:
+![test1](https://user-images.githubusercontent.com/73019374/102406813-6c31ce80-3feb-11eb-9e0f-0b69ed2af118.PNG)
+
+# Les Clés de la dictionnaire:
+![test2](https://user-images.githubusercontent.com/73019374/102406968-a26f4e00-3feb-11eb-83f3-5c59bf4241f7.PNG)
+
+# Création de deux tables:
+![création Table Pays_info](https://user-images.githubusercontent.com/73019374/102407058-c599fd80-3feb-11eb-96a9-6426915fd6a4.PNG)
+![création Table Covid](https://user-images.githubusercontent.com/73019374/102407071-c894ee00-3feb-11eb-8ad1-365a260e3ab0.PNG)
+
+# Remplir la base de données Covid19 avec les données de l'API et les afficher:
+![affichage](https://user-images.githubusercontent.com/73019374/102407211-04c84e80-3fec-11eb-8d87-77022c74a9e1.PNG)
+
+# Exmemple d'une requete pour la calculer la sommes des guérisons en Europe:
+![requete](https://user-images.githubusercontent.com/73019374/102407318-3214fc80-3fec-11eb-972d-2b42c7817380.PNG)
+
+
+
+
